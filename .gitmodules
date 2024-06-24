@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/PDA4-Mini-project/BackEnd.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/PDA4-Mini-project/FrontEnd.git
